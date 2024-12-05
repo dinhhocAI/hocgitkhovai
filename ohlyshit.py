@@ -1,0 +1,1 @@
+print("hơi nãn rầu ó")
